@@ -14,7 +14,7 @@ program vmec_multiple_readin
 
   call mpi_init(ierr)
 
-  print *,"Include any arguments to run vmec between the two times the input file is read."
+  print *,"Include any arguments to read in a second input file."
   
   print *,"Run 1"
   
