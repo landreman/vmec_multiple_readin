@@ -52,4 +52,4 @@ program vmec_multiple_readin
 
   print *,"Good bye!"
   
-end program segfault
+end program vmec_multiple_readin
