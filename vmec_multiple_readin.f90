@@ -1,4 +1,4 @@
-program segfault
+program vmec_multiple_readin
 
   use mpi
   use parallel_vmec_module, only: PARVMEC, NS_COMM, NS_RESLTN, FinalizeSurfaceComm, FinalizeRunVmec, RUNVMEC_COMM_WORLD
